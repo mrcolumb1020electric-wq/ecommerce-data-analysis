@@ -21,4 +21,4 @@ This project analyzes e-commerce category performance using SQL, Excel, and Tabl
 High revenue does not always mean high profitability due to shipping costs.
 
 ## 📎 Dashboard
-[Tableau Dashboard Link]([BURAYA_LINKİNİ KOY](https://public.tableau.com/app/profile/ahmet.oz1848/viz/E-CommerceProfitabilityAnalysis_17748043313430/E-CommerceCategoryPerformanceAnalysisRevenueCostProfitability))
+[Tableau Dashboard Link](https://public.tableau.com/authoring/E-CommerceProfitabilityAnalysis_17748043313430/E-CommerceCategoryPerformanceAnalysisRevenueCostProfitability#1)
